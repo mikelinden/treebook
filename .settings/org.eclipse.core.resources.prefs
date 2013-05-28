@@ -1,3 +1,4 @@
 eclipse.preferences.version=1
 encoding//app/views/layouts/application.html.erb=UTF-8
 encoding//app/views/statuses/index.html.erb=UTF-8
+encoding//config/locales/devise.pt-BR.yml=UTF-8

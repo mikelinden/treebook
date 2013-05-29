@@ -1,0 +1,29 @@
+[33mcommit 7da27688f72c8bd693af1bb3cd95d5db5a0ae8c5[m
+Author: Michael Linden <maicou@gmail.com>
+Date:   Tue May 28 11:12:44 2013 -0300
+
+    Objetos mapeados
+
+[33mcommit fdc0e8a4ed747c577685727915a03103dcfa760c[m
+Author: Michael Linden <maicou@gmail.com>
+Date:   Tue May 28 09:32:02 2013 -0300
+
+    Instalado devise
+
+[33mcommit 9be6b90aee02c64fcf8ffc5a352f94cad93e5012[m
+Author: Michael Linden <maicou@gmail.com>
+Date:   Mon May 27 15:14:54 2013 -0300
+
+    Adicionado bootstrap e locale pt-br
+
+[33mcommit 99e3263514b8249084a01e64e1447004eab3a1f3[m
+Author: Michael Linden <maicou@gmail.com>
+Date:   Mon May 27 09:46:34 2013 -0300
+
+    novo note
+
+[33mcommit a356527bfd25b6c113897432af426b8b5e3c35ab[m
+Author: Michael Linden <maicou@gmail.com>
+Date:   Tue May 21 16:36:31 2013 -0300
+
+    criado primeiro scaffold para update de status

@@ -1,7 +1,15 @@
 Cnanet::Application.routes.draw do
   devise_for :users
 
+  devise_scope :user do
+    get 'cadastro' => 'devise/registrations#new', as: :cadastro
+    get 'login' => 'devise/sessions#new', as: :login
+    get 'logout' => 'devise/sessions#destroy', as: :logout    
+  end
+
   resources :statuses
+
+  get 'feed', to: 'statuses#index#', as: :feed
 
   root to: 'statuses#index#'
 

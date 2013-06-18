@@ -3,4 +3,10 @@ michael:
   last_name: "Linden"
   email: "maicou@gmail.com"
   profile_name: "michael"
+  
+zeca:
+  first_name: "Ze"
+  last_name: "Carioca"
+  email: "zeca@gmail.com"
+  profile_name: "zeca"
 

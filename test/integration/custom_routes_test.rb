@@ -11,4 +11,9 @@ class CustomRoutesTest < ActionDispatch::IntegrationTest
     assert_response :redirect
     assert_redirected_to '/'
   end
+  
+    test 'that profie page works' do
+    get '/michael'
+    assert_response :success
+  end
 end

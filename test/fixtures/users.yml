@@ -9,4 +9,10 @@ zeca:
   last_name: "Carioca"
   email: "zeca@gmail.com"
   profile_name: "zeca"
+  
+joey:
+  first_name: "Joey"
+  last_name: "Tribianni"
+  email: "joey@gmail.com"
+  profile_name: "joey"
 
